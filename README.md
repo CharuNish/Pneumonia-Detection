@@ -16,5 +16,5 @@ We have utilized a fine-tuning approach on an EfficientNet model, a cutting-edge
 
 ## Results
 
-The model demonstrated promising results, achieving an accuracy of **83%** on the test set with 16 epochs, 16 batch size and 0.01 learning rate.
+The model demonstrated promising results, achieving an accuracy of **87%** on the test set with 20 epochs, 16 batch size and 0.01 learning rate.
 
